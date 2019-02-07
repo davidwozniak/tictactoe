@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>kolkokrzyzyk</name>
+    </assembly>
+    <members>
+        <member name="T:kolkokrzyzyk.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:kolkokrzyzyk.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:kolkokrzyzyk.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:kolkokrzyzyk.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="F:kolkokrzyzyk.MainWindow.mResults">
+            <summary>
+            Holds the current resultf of cells in active game
+            </summary>
+        </member>
+        <member name="F:kolkokrzyzyk.MainWindow.mPlayer1Turn">
+            <summary>
+            True if its player 1's turn (X) or player 2's turn (O)
+            </summary>
+        </member>
+        <member name="F:kolkokrzyzyk.MainWindow.mGameEnded">
+            <summary>
+             true if the game has ended
+            </summary>
+        </member>
+        <member name="M:kolkokrzyzyk.MainWindow.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:kolkokrzyzyk.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:kolkokrzyzyk.MarkType">
+            <summary>
+            The type of value the cell in game have
+            </summary>
+        </member>
+        <member name="F:kolkokrzyzyk.MarkType.Free">
+            <summary>
+            cell wasnt clicked
+            </summary>
+        </member>
+        <member name="F:kolkokrzyzyk.MarkType.Nought">
+            <summary>
+            cell is a O
+            </summary>
+        </member>
+        <member name="F:kolkokrzyzyk.MarkType.Cross">
+            <summary>
+            cell is an X
+            </summary>
+        </member>
+        <member name="T:kolkokrzyzyk.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:kolkokrzyzyk.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:kolkokrzyzyk.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

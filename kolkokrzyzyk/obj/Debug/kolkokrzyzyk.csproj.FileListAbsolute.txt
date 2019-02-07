@@ -1,0 +1,16 @@
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\bin\Debug\kolkokrzyzyk.exe.config
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\bin\Debug\kolkokrzyzyk.exe
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\bin\Debug\kolkokrzyzyk.pdb
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\App.g.cs
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk_MarkupCompile.cache
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk_MarkupCompile.lref
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\MainWindow.baml
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk.g.resources
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk.Properties.Resources.resources
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk.csproj.GenerateResource.cache
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk.exe
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\obj\Debug\kolkokrzyzyk.pdb
+C:\Users\dawid\source\repos\kolkokrzyzyk\kolkokrzyzyk\bin\Debug\kolkokrzyzyk.xml
