@@ -50,6 +50,18 @@
             Default constructor
             </summary>
         </member>
+        <member name="M:kolkokrzyzyk.MainWindow.NewGame">
+            <summary>
+            starting new game, clearing board
+            </summary>
+        </member>
+        <member name="M:kolkokrzyzyk.MainWindow.Button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles a button click event
+            </summary>
+            <param name="sender">button that was clicked</param>
+            <param name="e">events of clicks</param>
+        </member>
         <member name="M:kolkokrzyzyk.MainWindow.InitializeComponent">
             <summary>
             InitializeComponent
