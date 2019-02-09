@@ -34,7 +34,7 @@ namespace kolkokrzyzyk
         /// <summary>
         /// Default constructor
         /// </summary>
-        public MainWindow()
+        public MainWindow ()
         {
             InitializeComponent();
 
@@ -42,14 +42,13 @@ namespace kolkokrzyzyk
 
         }
 
-
-
         #endregion
 
+        #region Clearing board, starting new game
         /// <summary>
         /// starting new game, clearing board
         /// </summary>
-        private void NewGame()
+        public void NewGame()
         {
             // Create a new blank array of free cells
             mResults = new MarkType[81];
@@ -75,12 +74,15 @@ namespace kolkokrzyzyk
 
         }
 
+        #endregion
+
+        #region setting buttons logic
         /// <summary>
         /// Handles a button click event
         /// </summary>
         /// <param name="sender">button that was clicked</param>
         /// <param name="e">events of clicks</param>
-        private void Button_Click(object sender, RoutedEventArgs e)
+        public void Button_Click(object sender, RoutedEventArgs e)
         {
             // Start a new game on the click after it finished
             if (mGameEnded)
@@ -96,20 +98,78 @@ namespace kolkokrzyzyk
             var column = Grid.GetColumn(button);
             var row = Grid.GetRow(button);
 
-            var index = row + (column * 9);
+            var index = column + (row * 9);
 
             // dont do anythig if cell has already a value
             if (mResults[index] != MarkType.Free)
                 return;
 
-            // seting a value based on which turn is it
+            // seting a value in cell based on which turn is it
             mResults[index] = mPlayer1Turn ? MarkType.Cross : MarkType.Nought;
 
             // seting button text
             button.Content = mPlayer1Turn ? "X" : "O";
 
-            //toggle players turns
+            // change button color
+            if (!mPlayer1Turn)
+                button.Foreground = Brushes.Green;
+
+            //toggle players turns, bool's (instead if statement)
             mPlayer1Turn ^= true;
+
+            CheckForWinner();
+
+
+
         }
+
+        #endregion
+
+        #region setting winner logic
+
+        
+        /// <summary>
+        ///     checks if there iis a winner of a 3 line striaght
+        /// </summary>
+        public void CheckForWinner()
+        {
+            // Check for horizontal wins
+
+
+                if (mResults[0] != MarkType.Free && (mResults[0] & mResults[1] & mResults[2]) == mResults[0])
+                {
+                    //game ends
+                    mGameEnded = true;
+
+                    // highlight winning cells in green
+                    Button0_0.Background = Button1_0.Background = Button2_0.Background = Brushes.Green;
+
+                }
+
+
+            // if none of mResluts is free, the game has ended
+            if (!mResults.Any(result => result == MarkType.Free))
+            {
+                // game ended
+                mGameEnded = true;
+
+                // turn all cells orange
+                Container.Children.Cast<Button>().ToList().ForEach(button =>
+                {
+
+                    button.Background = Brushes.Orange;
+
+                });
+
+            }
+        }
+
+        #endregion
     }
+
+
+
+
 }
+    
+
