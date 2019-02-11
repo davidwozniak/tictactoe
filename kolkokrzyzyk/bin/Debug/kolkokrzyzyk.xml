@@ -32,7 +32,7 @@
         </member>
         <member name="F:kolkokrzyzyk.MainWindow.mResults">
             <summary>
-            Holds the current resultf of cells in active game
+            Holds the current result of cells in active game
             </summary>
         </member>
         <member name="F:kolkokrzyzyk.MainWindow.mPlayer1Turn">
@@ -62,10 +62,11 @@
             <param name="sender">button that was clicked</param>
             <param name="e">events of clicks</param>
         </member>
-        <member name="M:kolkokrzyzyk.MainWindow.CheckForWinner">
+        <member name="M:kolkokrzyzyk.MainWindow.CheckWin">
             <summary>
-                checks if there iis a winner of a 3 line striaght
+            checking for win
             </summary>
+            <returns></returns>
         </member>
         <member name="M:kolkokrzyzyk.MainWindow.InitializeComponent">
             <summary>

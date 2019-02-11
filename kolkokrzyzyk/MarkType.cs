@@ -14,14 +14,16 @@ namespace kolkokrzyzyk
         /// <summary>
         /// cell wasnt clicked
         /// </summary>
-        Free,
+        Free = 0,
         /// <summary>
         /// cell is a O
         /// </summary>
-        Nought,
+        Nought = 2,
         /// <summary>
         /// cell is an X
         /// </summary>
-        Cross
+        Cross = 1
     }
+
+
 }
