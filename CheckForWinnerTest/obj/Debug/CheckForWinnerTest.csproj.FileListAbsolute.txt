@@ -1,0 +1,20 @@
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\CheckForWinnerTest.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\CheckForWinnerTest.pdb
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Class Library.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\kolkokrzyzyk.exe
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Class Library.pdb
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\kolkokrzyzyk.pdb
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\kolkokrzyzyk.xml
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\kolkokrzyzyk.exe.config
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\obj\Debug\CheckForWinnerTest.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\obj\Debug\CheckForWinnerTest.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\obj\Debug\CheckForWinnerTest.csproj.CopyComplete
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\obj\Debug\CheckForWinnerTest.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\CheckForWinnerTest\obj\Debug\CheckForWinnerTest.pdb

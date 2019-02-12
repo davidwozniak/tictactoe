@@ -1,0 +1,5 @@
+C:\Users\dawid\source\repos\kolkokrzyzyk\Class Library\bin\Debug\Class Library.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\Class Library\bin\Debug\Class Library.pdb
+C:\Users\dawid\source\repos\kolkokrzyzyk\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\kolkokrzyzyk\Class Library\obj\Debug\Class Library.dll
+C:\Users\dawid\source\repos\kolkokrzyzyk\Class Library\obj\Debug\Class Library.pdb

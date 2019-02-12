@@ -71,7 +71,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MarkType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -96,6 +95,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Class Library\Class Library.csproj">
+      <Project>{c86e8bfc-25d0-45a5-8bf8-950fea284f77}</Project>
+      <Name>Class Library</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

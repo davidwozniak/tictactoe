@@ -4,11 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace kolkokrzyzyk
-{   
-    /// <summary>
-    /// The type of value the cell in game have
-    /// </summary>
+namespace Library
+{
     public enum MarkType
     {
         /// <summary>
@@ -24,6 +21,5 @@ namespace kolkokrzyzyk
         /// </summary>
         Cross = 1
     }
-
 
 }
