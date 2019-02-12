@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolkokrzyzyk", "kolkokrzyzyk\kolkokrzyzyk.csproj", "{9B618366-C4F5-47BE-A22A-3E79C4E9800A}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KolkoKrzyzykSetup", "KolkoKrzyzykSetup\KolkoKrzyzykSetup.vdproj", "{0F560E6F-E674-49DA-BFC4-C35F8EFAA201}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library", "Class Library\Class Library.csproj", "{C86E8BFC-25D0-45A5-8BF8-950FEA284F77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForWinnerTest", "CheckForWinnerTest\CheckForWinnerTest.csproj", "{0A7F44FA-4186-4E68-BE9E-DB01C9D7435D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{33C1595F-049F-400F-AEFF-16A61BFADD49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +21,6 @@ Global
 		{9B618366-C4F5-47BE-A22A-3E79C4E9800A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B618366-C4F5-47BE-A22A-3E79C4E9800A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B618366-C4F5-47BE-A22A-3E79C4E9800A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F560E6F-E674-49DA-BFC4-C35F8EFAA201}.Debug|Any CPU.ActiveCfg = Debug
-		{0F560E6F-E674-49DA-BFC4-C35F8EFAA201}.Release|Any CPU.ActiveCfg = Release
 		{C86E8BFC-25D0-45A5-8BF8-950FEA284F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C86E8BFC-25D0-45A5-8BF8-950FEA284F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C86E8BFC-25D0-45A5-8BF8-950FEA284F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,6 +29,8 @@ Global
 		{0A7F44FA-4186-4E68-BE9E-DB01C9D7435D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A7F44FA-4186-4E68-BE9E-DB01C9D7435D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A7F44FA-4186-4E68-BE9E-DB01C9D7435D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C1595F-049F-400F-AEFF-16A61BFADD49}.Debug|Any CPU.ActiveCfg = Debug
+		{33C1595F-049F-400F-AEFF-16A61BFADD49}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -49,7 +49,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LogicTest.cs" />
+    <Compile Include="Diagonal_Left_Test.cs" />
+    <Compile Include="Diagonal_Right_Test.cs" />
+    <Compile Include="Horizontal_Test.cs" />
+    <Compile Include="Vertical_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
